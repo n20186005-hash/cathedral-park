@@ -65,6 +65,25 @@
       }
     ]
   },
+  "science": {
+    "title": "Educational Insights",
+    "architecture": {
+      "title": "Neo-Classical Architecture",
+      "content": "Designed by Russian architect Avraam Melnikov, the Nativity Cathedral is a prime example of Neo-Classical style. Its core features include a symmetrical layout, a grand dome, and Doric columns supporting the portico. This style was highly popular in the 19th-century Russian Empire, symbolizing order and rationality."
+    },
+    "bellTower": {
+      "title": "Evolution of the Bell Tower",
+      "content": "The original bell tower was built in 1836 but was destroyed by the Soviet government in 1962. The current tower was reconstructed in 1997 to match the original design, standing about 40 meters tall. Beyond its religious function, the tower historically served as an important timekeeping structure for the city."
+    },
+    "ecology": {
+      "title": "Urban Microclimate Regulation",
+      "content": "As the green lung of the city center, Cathedral Park plays a vital role in regulating the urban microclimate. Its dense canopy effectively lowers summer surface temperatures, absorbs airborne particulate matter, and provides crucial habitat for urban bird species."
+    },
+    "heritage": {
+      "title": "History of the Triumphal Arch",
+      "content": "The adjacent Triumphal Arch (built in 1840) was originally constructed to commemorate the Russian Empire's victory in the Russo-Turkish War. It was also built to house a massive 6.4-ton bell that was too large to fit in the cathedral's original bell tower."
+    }
+  },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
@@ -103,6 +122,27 @@
     "parkingPrice": "Street parking available nearby",
     "guided": "Guided Tours",
     "guidedPrice": "Self-guided"
+  },
+  "precautions": {
+    "title": "Cathedral Visiting Guidelines",
+    "items": [
+      {
+        "title": "Dress Code",
+        "description": "Please dress modestly. Men should remove hats, and women are advised to cover their heads with a scarf. Avoid shorts and sleeveless tops."
+      },
+      {
+        "title": "Photography",
+        "description": "Photography is freely allowed outside the cathedral, but taking photos inside is often restricted or prohibited. Please pay attention to signs."
+      },
+      {
+        "title": "Behavior",
+        "description": "Please maintain silence upon entering, mute your mobile phones, and respect ongoing religious services or prayers."
+      },
+      {
+        "title": "Visiting Hours",
+        "description": "During religious services (especially Sunday mornings and holidays), tourist access may be restricted. Please plan accordingly."
+      }
+    ]
   },
   "transport": {
     "title": "How to Get Here",

@@ -21,20 +21,20 @@ export default function Footer() {
               {t('disclaimer')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://www.edinburgh.gov.uk/directory-record/1099222/west-princes-street-gardens" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡市议会' : 'Edinburgh City Council'}
+              <a href="https://mc.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.culture')}
               </a>
-              <a href="https://portal.historicenvironment.scot/designation/GDL00367" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '苏格兰历史环境局' : 'Historic Environment Scotland'}
+              <a href="https://turism.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.tourism')}
               </a>
-              <a href="https://ewh.org.uk/ross-fountain/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡世界遗产基金会' : 'Edinburgh World Heritage'}
+              <a href="https://airm.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.heritage')}
               </a>
-              <a href="https://edinburgh.org/point-of-interest/scott-monument/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡官方旅游局' : 'Official Edinburgh Tourism Board'}
+              <a href="https://www.chisinau.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.cityHall')}
               </a>
-              <a href="https://www.nationalgalleries.org/visit/scottish-national-gallery" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '苏格兰国家画廊' : 'Scottish National Gallery'}
+              <a href="https://proiecte.chisinau.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.projects')}
               </a>
             </div>
           </div>

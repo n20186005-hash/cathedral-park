@@ -65,6 +65,25 @@
       }
     ]
   },
+  "science": {
+    "title": "Informații Educaționale",
+    "architecture": {
+      "title": "Arhitectura Neoclasică",
+      "content": "Proiectată de arhitectul rus Avraam Melnikov, Catedrala Nașterii Domnului este un exemplu de prim rang al stilului neoclasic. Caracteristicile sale centrale includ un plan simetric, o cupolă grandioasă și coloane dorice care susțin porticul. Acest stil a fost foarte popular în Imperiul Rus în secolul al XIX-lea, simbolizând ordinea și raționalitatea."
+    },
+    "bellTower": {
+      "title": "Evoluția Clopotniței",
+      "content": "Clopotnița originală a fost construită în 1836, dar a fost distrusă de guvernul sovietic în 1962. Turnul actual a fost reconstruit în 1997 pentru a se potrivi cu designul original, având o înălțime de aproximativ 40 de metri. Dincolo de funcția sa religioasă, turnul a servit istoric ca o structură importantă de măsurare a timpului pentru oraș."
+    },
+    "ecology": {
+      "title": "Reglarea Microclimatului Urban",
+      "content": "Ca plămân verde al centrului orașului, Parcul Catedralei joacă un rol vital în reglarea microclimatului urban. Coronamentul său dens scade eficient temperaturile de suprafață vara, absoarbe particulele în suspensie din aer și oferă un habitat crucial pentru speciile de păsări urbane."
+    },
+    "heritage": {
+      "title": "Istoria Arcului de Triumf",
+      "content": "Arcul de Triumf adiacent (construit în 1840) a fost inițial construit pentru a comemora victoria Imperiului Rus în Războiul Ruso-Turc. A fost, de asemenea, construit pentru a adăposti un clopot masiv de 6,4 tone care era prea mare pentru a încăpea în clopotnița originală a catedralei."
+    }
+  },
   "basicInfo": {
     "title": "Informații de Bază",
     "officialName": "Denumire Oficială",
@@ -103,6 +122,27 @@
     "parkingPrice": "Parcare stradală disponibilă în apropiere",
     "guided": "Tururi Ghidate",
     "guidedPrice": "Autoghidare"
+  },
+  "precautions": {
+    "title": "Reguli de Vizitare a Catedralei",
+    "items": [
+      {
+        "title": "Ținută",
+        "description": "Vă rugăm să vă îmbrăcați decent. Bărbații trebuie să-și scoată pălăriile, iar femeilor li se recomandă să-și acopere capul cu o eșarfă. Evitați pantalonii scurți și bluzele fără mâneci."
+      },
+      {
+        "title": "Fotografie",
+        "description": "Fotografierea este permisă în exteriorul catedralei, dar în interior este adesea restricționată sau interzisă. Vă rugăm să acordați atenție semnelor."
+      },
+      {
+        "title": "Comportament",
+        "description": "Vă rugăm să păstrați liniștea la intrare, să puneți telefoanele mobile pe silențios și să respectați slujbele sau rugăciunile în curs."
+      },
+      {
+        "title": "Program de Vizitare",
+        "description": "În timpul slujbelor religioase (în special duminica dimineața și de sărbători), accesul turiștilor poate fi restricționat. Vă rugăm să vă informați în prealabil."
+      }
+    ]
   },
   "transport": {
     "title": "Cum să Ajungeți",
