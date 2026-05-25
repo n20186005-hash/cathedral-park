@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://cathedralpark.com';
+  const baseUrl = 'https://cathedralparkchisinau.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -23,6 +23,7 @@ export async function generateMetadata({
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
 
   return {
+    metadataBase: new URL(baseUrl),
     title: messages.meta.title,
     description: messages.meta.description,
     alternates: {
