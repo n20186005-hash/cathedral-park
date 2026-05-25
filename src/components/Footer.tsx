@@ -14,12 +14,15 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto">
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
-            <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              {t('officialResourcesTitle')}
-            </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('disclaimer')}
+            <h2 className="font-display text-2xl font-bold mb-1" style={{ color: 'var(--text-primary)' }}>
+              {t('parkName')}
+            </h2>
+            <p className="text-sm mb-6" style={{ color: 'var(--text-secondary)' }}>
+              {t('parkSubtitle')}
             </p>
+            <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+              {t('resourcesTitle')}
+            </h3>
             <div className="flex flex-col gap-2">
               <a href="https://mc.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.culture')}
@@ -52,10 +55,11 @@ export default function Footer() {
         </div>
 
         <div
-          className="pt-6 text-center text-sm space-y-4"
+          className="pt-6 text-center space-y-2 flex flex-col items-center"
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
-          <p>{t('rights')}</p>
+          <p className="text-sm">{t('rights')}</p>
+          <p className="text-xs max-w-2xl">{t('disclaimer')}</p>
         </div>
       </div>
     </footer>

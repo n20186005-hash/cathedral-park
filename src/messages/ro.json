@@ -298,11 +298,13 @@
     "openMaps": "Vezi pe Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Informații Parcul Catedralei",
+    "rights": "© 2026 Asociația Independentă de Cercetare în Turism Parcul Catedralei · Toate drepturile rezervate.",
     "privacy": "Politică de Confidențialitate",
     "terms": "Termeni de Serviciu",
     "cookies": "Setări Cookie-uri",
-    "officialResourcesTitle": "Resurse Oficiale și Parteneri",
+    "parkName": "Parcul Catedralei",
+    "parkSubtitle": "Parc · Chișinău",
+    "resourcesTitle": "Resurse și Informații Conexe",
     "officialLinks": {
       "culture": "Ministerul Culturii",
       "tourism": "Turismul în Moldova",
@@ -310,7 +312,7 @@
       "cityHall": "Primăria Chișinău",
       "projects": "Proiecte Chișinău"
     },
-    "disclaimer": "Acesta este un site web ghid independent dedicat furnizării de informații de călătorie obiective și precise."
+    "disclaimer": "Acest site web este un proiect independent de informații turistice de la terți. Nu suntem afiliați în niciun fel cu guvernul local sau cu alte organizații oficiale."
   },
   "privacy": {
     "title": "Politică de Confidențialitate",

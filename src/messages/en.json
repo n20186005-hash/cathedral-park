@@ -298,11 +298,13 @@
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Cathedral Park Info",
+    "rights": "© 2026 Cathedral Park Independent Tourism Research Association · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Partner Resources",
+    "parkName": "Cathedral Park",
+    "parkSubtitle": "Park · Chișinău",
+    "resourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "culture": "Ministry of Culture",
       "tourism": "Moldova Tourism",
@@ -310,7 +312,7 @@
       "cityHall": "Chisinau City Hall",
       "projects": "Chisinau Projects"
     },
-    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with local government or other official organizations in any way."
   },
   "privacy": {
     "title": "Privacy Policy",
