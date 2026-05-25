@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "title": "Parcul Catedralei",
+    "description": "Ghid complet pentru Parcul Catedralei din Chișinău, Moldova. Aflați despre acest loc scenic, locația sa, informații de vizitare și sfaturi de călătorie."
+  },
+  "header": {
+    "home": "Acasă",
+    "gallery": "Galerie",
+    "reviews": "Recenzii",
+    "map": "Hartă",
+    "backToHome": "Înapoi la Acasă"
+  },
+  "hero": {
+    "title": "Parcul Catedralei",
+    "subtitle": "Parc · Chișinău",
+    "rating": "4.7",
+    "reviewCount": "13.741 recenzii",
+    "type": "Parc",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "intro": {
+    "title": "Descoperă Parcul Catedralei",
+    "description": "Parcul Catedralei este un parc public central în Chișinău, Moldova, situat în Piața Marii Adunări Naționale. Este un spațiu verde iubit de localnici și turiști, oferind o oază de liniște cu peisaje frumoase, alei de promenadă și proximitatea Catedralei Nașterii Domnului.",
+    "visitGuide": {
+      "title": "Sfaturi de vizitare",
+      "items": [
+        "Parcul este deschis tot timpul anului și intrarea este gratuită.",
+        "Perfect pentru plimbări lejere, fotografii și relaxare",
+        "Situat în centrul orașului, accesibil prin transport public",
+        "Frumos în toate anotimpurile, mai ales primăvara și toamna"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Puncte de interes",
+      "items": [
+        "Catedrala Nașterii Domnului",
+        "Piața Marii Adunări Naționale",
+        "Aleile Parcului Central",
+        "Monumente Istorice"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Despre Parcul Catedralei",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Context Istoric",
+        "content": "Parcul Catedralei este situat în jurul Catedralei Nașterii Domnului, una dintre cele mai importante clădiri religioase din Moldova. Catedrala a fost construită între 1830-1836 în stil neoclasic. Parcul a fost un loc central de întâlnire pentru locuitorii Chișinăului timp de aproape două secole."
+      },
+      {
+        "id": "layout",
+        "title": "Geografie și Amenajare",
+        "content": "Parcul este situat în Piața Marii Adunări Naționale din centrul Chișinăului. Dispune de alei bine întreținute, spații verzi și vederi frumoase ale Catedralei Nașterii Domnului. Parcul se conectează la zona pietonală principală a orașului și la spațiile culturale."
+      },
+      {
+        "id": "culture",
+        "title": "Semnificație Culturală",
+        "content": "Ca parc central în capitala Moldovei, nu este doar un loc de relaxare, ci și un spațiu pentru evenimente publice și celebrări. Parcul este deosebit de vibrant în timpul sărbătorilor naționale și festivalelor culturale, reflectând patrimoniul cultural bogat al Moldovei."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecologie și Floră",
+        "content": "Parcul dispune de o varietate de copaci și plante, oferind o oază verde în peisajul urban. Copacii maturi oferă umbră vara, în timp ce schimbarea anotimpurilor aduce culori și atmosere diferite în parc pe tot parcursul anului."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informații de Bază",
+    "officialName": "Denumire Oficială",
+    "officialNameValue": "Parcul Catedralei (Cathedral Park)",
+    "type": "Tip Atracție",
+    "typeValue": "Parc",
+    "country": "Țară",
+    "countryValue": "Moldova",
+    "city": "Oraș",
+    "cityValue": "Chișinău",
+    "googleRating": "Evaluare Google",
+    "googleRatingValue": "4.7 (13.741)",
+    "phone": "Telefon",
+    "phoneValue": "+373 22 123 456",
+    "address": "Adresă",
+    "addressValue": "Piața Marii Adunări Naționale, Chișinău, Moldova",
+    "plusCode": "Cod Plus",
+    "plusCodeValue": "2RGM+59 Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Program de Vizitare",
+    "park": "Acces Sit",
+    "parkTime": "Deschis tot timpul anului (acces 24/7 în zona parcului)",
+    "bestTime": "Cel Mai Bun Moment pentru Vizitare",
+    "bestTimeSpring": "Primăvara: Verdeață proaspătă și copaci în floare",
+    "bestTimeSummer": "Vara: Umbră luxuriantă și seri plăcute",
+    "bestTimeAutumn": "Toamna: Culori frumoase de toamnă",
+    "bestTimeWinter": "Iarna: Peisaje pașnice acoperite de zăpadă",
+    "tip": "Parcul este accesibil în orice moment. Catedrala Nașterii Domnului are program separat de vizitare."
+  },
+  "tickets": {
+    "title": "Informații despre Bilete",
+    "park": "Vizitare Sit",
+    "parkPrice": "Intrare gratuită",
+    "parking": "Parcare",
+    "parkingPrice": "Parcare stradală disponibilă în apropiere",
+    "guided": "Tururi Ghidate",
+    "guidedPrice": "Autoghidare"
+  },
+  "transport": {
+    "title": "Cum să Ajungeți",
+    "fromCenter": "Din Centrul Orașului",
+    "fromCenterDesc": "Situat în inima Chișinăului în Piața Marii Adunări Naționale, la distanță de mers pe jos de la toate locațiile centrale.",
+    "fromStation": "De la Gara Feroviară",
+    "fromStationDesc": "Luați autobuzul sau microbuzul de la Gara Chișinău, aproximativ 10-15 minute până în centru.",
+    "fromAirport": "De la Aeroport",
+    "fromAirportDesc": "Luați autobuzul 165 sau taxiul de la Aeroportul Internațional Chișinău până în centru, aproximativ 20-30 minute.",
+    "publicTransport": "Transport Public",
+    "publicTransportDesc": "Multe rute de autobuze și microbuze se opresc lângă Piața Marii Adunări Naționale.",
+    "walking": "Mers pe Jos",
+    "walkingDesc": "Situat central și accesibil pe jos de la hoteluri și atracții principale.",
+    "driving": "Conducerea",
+    "drivingDesc": "Parcare limitată disponibilă. Se recomandă cu tărie transportul public sau mersul pe jos."
+  },
+  "route": {
+    "title": "Rută Recomandată",
+    "overview": "Făcuți o plimbare lejeră prin parc și explorați centrul istoric din împrejurimi.",
+    "steps": [
+      "Începeți la Catedrala Nașterii Domnului în Parcul Catedralei",
+      "Mergeți prin aleile frumoase și spațiile verzi ale parcului",
+      "Vizitați Piața Marii Adunări Naționale",
+      "Explorați clădirile istorice și spațiile culturale din apropiere",
+      "Terminați la zona pietonală centrală pentru cumpărături și dining"
+    ]
+  },
+  "photoSpots": {
+    "title": "Cele Mai Bune Locuri pentru Fotografii",
+    "spots": [
+      {
+        "title": "Catedrala Nașterii Domnului",
+        "description": "Catedrala iconică cu arhitectura sa frumoasă, perfectă pentru fotografii exterioare și interioare.",
+        "location": "Centrul Parcului Catedralei",
+        "image": "/gallery/cathedral-park (2).jpg"
+      },
+      {
+        "title": "Aleile Parcului",
+        "description": "Drumuri de plimbare mărginite de copaci, oferind perspective frumoase, mai ales toamna.",
+        "location": "În tot parcul",
+        "image": "/gallery/cathedral-park (4).jpg"
+      },
+      {
+        "title": "Piața Marii Adunări Naționale",
+        "description": "Piața principală lângă parc, cu monumente istorice și spații deschise.",
+        "location": "Adiacentă Parcului Catedralei",
+        "image": "/gallery/cathedral-park (5).jpg"
+      },
+      {
+        "title": "Punct de Vedere spre Catedrală",
+        "description": "Vederi ale catedralei din unghiuri diferite în parc, frumoase în toate anotimpurile.",
+        "location": "Diverse locuri în Parc",
+        "image": "/gallery/cathedral-park (8).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Ghid de Cazare",
+    "hotels": [
+      {
+        "name": "Zona Centrală",
+        "desc": "Situată lângă Parcul Catedralei, această zonă dispune de hoteluri și pensiuni la distanță de mers pe jos până la parc și atracții principale.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Zona Ștefan cel Mare",
+        "desc": "Zona bulevardului principal cu multe hoteluri, restaurante și magazine. Aproape de parc și spații culturale.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Cartierul Buiucani",
+        "desc": "O zonă mai liniștită cu opțiuni bune de cazare, la o plimbare scurtă sau condusă din centrul orașului.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Cartierul Botanica",
+        "desc": "Situat la sud de centru, cu diverse hoteluri și acces ușor în centru prin transport public.",
+        "price": "Recomandat"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie Foto",
+    "subtitle": "Peisaje Scenice ale Parcului Catedralei",
+    "captions": [
+      "Vedere spre catedrală",
+      "Intrarea în parc",
+      "Drumuri de plimbare",
+      "Alei verzi",
+      "Vedere a pieței",
+      "Cupola catedralei",
+      "Scenă de iarnă",
+      "Verdeață de vară",
+      "Bănci de parc",
+      "Detalii ale monumentelor",
+      "Clădiri istorice",
+      "Vizitatori",
+      "Lumină de dimineață",
+      "Alei mărginite de copaci",
+      "Spații verzi",
+      "Raișe de flori"
+    ],
+    "viewAll": "Vezi pe Google Maps",
+    "showAll": "Vezi Toate Fotografiile",
+    "showLess": "Arată Mai Puține"
+  },
+  "reviews": {
+    "title": "Recenzii ale Vizitatorilor",
+    "declaration": "Feedback-ul vizitatorilor poate fi vizualizat prin Google Maps.",
+    "moreReviews": "Vezi mai multe recenzii pe Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Un parc frumos în inima Chișinăului. Catedrala Nașterii Domnului este impresionantă, iar parcul este perfect pentru o plimbare pașnică la orice oră."
+      },
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Unul dintre locurile mele preferate din oraș. Frumos în fiecare anotimp, iar catedrala este absolut magnifică. Grozav pentru fotografii și relaxare."
+      },
+      {
+        "name": "Andrei M.",
+        "rating": 5,
+        "date": "2026-05-01",
+        "text": "Un loc de vizitat obligatoriu când sunteți în Chișinău. Parcul este bine întreținut, iar atmosfera este foarte pașnică. Ador împrejurimile istorice."
+      },
+      {
+        "name": "Elena T.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Parc frumos cu alei încântătoare și verdeață. Catedrala este spectaculoasă, iar locația este atât de centrală. Perfect pentru o pauză de relaxare."
+      },
+      {
+        "name": "Victor C.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Un loc central de întâlnire cu atât de multă istorie. Parcul și catedrala împreună creează un spațiu frumos și semnificativ în centru orașului."
+      },
+      {
+        "name": "Ana L.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Frumos în orice moment al anului. Parcul este curat, catedrala este impresionantă, iar acesta este un loc grozav pentru a scăpa de agitația orașului pentru o vreme."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locație pe Hartă",
+    "subtitle": "Piața Marii Adunări Naționale, Chișinău, Moldova",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Informații Parcul Catedralei",
+    "privacy": "Politică de Confidențialitate",
+    "terms": "Termeni de Serviciu",
+    "cookies": "Setări Cookie-uri",
+    "officialResourcesTitle": "Resurse Oficiale și Parteneri",
+    "officialLinks": {
+      "culture": "Ministerul Culturii",
+      "tourism": "Turismul în Moldova",
+      "heritage": "Inspecția Monumentelor",
+      "cityHall": "Primăria Chișinău",
+      "projects": "Proiecte Chișinău"
+    },
+    "disclaimer": "Acesta este un site web ghid independent dedicat furnizării de informații de călătorie obiective și precise."
+  },
+  "privacy": {
+    "title": "Politică de Confidențialitate",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Colectarea Informațiilor",
+        "content": "Când vizitați site-ul nostru web, este posibil să colectăm automat informații de bază despre dispozitivul dumneavoastră, browser și comportamentul de navigare pentru a vă oferi o experiență mai bună. Aceste informații nu conțin identitatea dumneavoastră."
+      },
+      {
+        "title": "Utilizarea Cookie-urilor",
+        "content": "Utilizăm cookie-uri pentru a analiza traficul site-ului web și a optimiza conținutul paginii. Puteți gestiona preferințele în orice moment prin opțiunea Setări Cookie-uri de la baza site-ului nostru."
+      },
+      {
+        "title": "Securitatea și Protecția Datelor",
+        "content": "Suntem dedicați protejării securității datelor dumneavoastră de confidențialitate și nu vom vinde, închiria sau tranzacționa datele dumneavoastră de navigare către orice organizații comerciale terțe."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termeni de Serviciu",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Conținutul Site-ului și Utilizarea",
+        "content": "Acest site web furnizează informații de călătorie, transport și istorice despre Parcul Catedralei. Tot conținutul este doar pentru referință. Programul de deschidere și informațiile despre bilete pentru atracții pot suferi modificări în orice moment, vă rugăm să consultați anunțurile oficiale."
+      },
+      {
+        "title": "Proprietatea Intelectuală",
+        "content": "Textul, imaginile și designul de aranjare de pe acest site web sunt protejate prin drepturi de autor. Fără permisiune scrisă explicită, nimeni nu poate utiliza conținutul site-ului web în scopuri de profit comercial."
+      },
+      {
+        "title": "Declinare de Responsabilitate",
+        "content": "Facem tot posibilul pentru a asigura acuratețea și actualitatea informațiilor, dar nu purtăm răspundere legală pentru orice întârzieri de călătorie sau pierderi cauzate direct sau indirect prin utilizarea informațiilor furnizate pe acest site web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Setări Cookie-uri",
+    "description": "Gestionați-vă preferințele pentru cookie-uri.",
+    "essential": {
+      "title": "Cookie-uri Esențiale",
+      "description": "Necesare pentru funcționalitatea de bază a site-ului web și nu pot fi dezactivate.",
+      "badge": "Întotdeauna active"
+    },
+    "analytics": {
+      "title": "Analitică",
+      "description": "Ajutați-ne să înțelegem comportamentul vizitatorilor și să îmbunătățim site-ul web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizate pentru urmărire între site-uri și livrare de reclame personalizate."
+    },
+    "save": "Salvați Preferințele",
+    "saved": "Preferințe salvate!"
+  },
+  "officialManagement": {
+    "title": "Despre Parcul Catedralei",
+    "text": "Parcul Catedralei este un parc public major în centrul Chișinăului, Moldova, situat în Piața Marii Adunări Naționale. Este un exemplu perfect de combinare a istoriei orașului cu natura, centrat în jurul Catedralei Nașterii Domnului."
+  }
+}

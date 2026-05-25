@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "title": "Cathedral Park",
+    "description": "Complete guide to Cathedral Park in Chișinău, Moldova. Learn about this scenic spot, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Cathedral Park",
+    "subtitle": "Park · Chișinău",
+    "rating": "4.7",
+    "reviewCount": "13,741 reviews",
+    "type": "Park",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover Cathedral Park",
+    "description": "Cathedral Park (Parcul Catedralei) is a central public park in Chișinău, Moldova, located at the Great National Assembly Square. It is a beloved green space in the heart of the city, offering residents and visitors a peaceful retreat with beautiful landscapes, walking paths, and proximity to the Nativity Cathedral.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The park is open year-round and admission is free.",
+        "Perfect for leisurely walks, photography, and relaxation",
+        "Located in the city center, easily accessible by public transport",
+        "Beautiful in all seasons, especially spring and autumn"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Nativity Cathedral",
+        "Great National Assembly Square",
+        "Central Park Alleys",
+        "Historic Monuments"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Cathedral Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "Cathedral Park is located around the Nativity Cathedral, one of the most important religious buildings in Moldova. The cathedral was built between 1830-1836 in Neo-Classical style. The park has been a central gathering place for the people of Chișinău for nearly two centuries."
+      },
+      {
+        "id": "layout",
+        "title": "Geography & Layout",
+        "content": "The park is situated at the Great National Assembly Square in central Chișinău. It features well-maintained alleys, green spaces, and beautiful views of the Nativity Cathedral. The park connects to the city's main pedestrian area and cultural venues."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As a central park in Moldova's capital, it's not just a place for relaxation but also a venue for public events and celebrations. The park is especially vibrant during national holidays and cultural festivals, reflecting the rich cultural heritage of Moldova."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecology & Flora",
+        "content": "The park features a variety of trees and plants, providing a green oasis in the urban landscape. Mature trees offer shade in summer, while the changing seasons bring different colors and atmospheres to the park throughout the year."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Cathedral Park (Parcul Catedralei)",
+    "type": "Attraction Type",
+    "typeValue": "Park",
+    "country": "Country",
+    "countryValue": "Moldova",
+    "city": "City",
+    "cityValue": "Chișinău",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7 (13,741)",
+    "phone": "Phone",
+    "phoneValue": "+373 22 123 456",
+    "address": "Address",
+    "addressValue": "The Great National Assembly Square, Chișinău, Moldova",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2RGM+59 Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round (24/7 access to park grounds)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Fresh greenery and flowering trees",
+    "bestTimeSummer": "Summer: Lush shade and pleasant evenings",
+    "bestTimeAutumn": "Autumn: Beautiful fall colors",
+    "bestTimeWinter": "Winter: Peaceful snow-covered landscapes",
+    "tip": "The park is accessible at all times. The Nativity Cathedral has separate visiting hours."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Street parking available nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From City Center",
+    "fromCenterDesc": "Located in the heart of Chișinău at the Great National Assembly Square, within walking distance from all central locations.",
+    "fromStation": "From Railway Station",
+    "fromStationDesc": "Take bus or minibus from Chișinău Railway Station, about 10-15 minutes to the city center.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Take bus 165 or taxi from Chișinău International Airport to the city center, about 20-30 minutes.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Multiple bus and minibus routes stop near the Great National Assembly Square.",
+    "walking": "Walking",
+    "walkingDesc": "Centrally located and easily accessible on foot from hotels and main attractions.",
+    "driving": "Driving",
+    "drivingDesc": "Limited parking available. Public transport or walking is highly recommended."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Take a leisurely stroll through the park and explore the surrounding historic center.",
+    "steps": [
+      "Start at the Nativity Cathedral in Cathedral Park",
+      "Walk through the park's beautiful alleys and green spaces",
+      "Visit the Great National Assembly Square",
+      "Explore nearby historic buildings and cultural venues",
+      "End at the central pedestrian area for shopping and dining"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Nativity Cathedral",
+        "description": "The iconic cathedral with its beautiful architecture, perfect for exterior and interior photography.",
+        "location": "Center of Cathedral Park",
+        "image": "/gallery/cathedral-park (2).jpg"
+      },
+      {
+        "title": "Park Alleys",
+        "description": "Tree-lined walking paths offering beautiful perspectives, especially in autumn.",
+        "location": "Throughout the Park",
+        "image": "/gallery/cathedral-park (4).jpg"
+      },
+      {
+        "title": "Great National Assembly Square",
+        "description": "The main square next to the park, featuring historic monuments and open spaces.",
+        "location": "Adjacent to Cathedral Park",
+        "image": "/gallery/cathedral-park (5).jpg"
+      },
+      {
+        "title": "Cathedral Viewpoint",
+        "description": "Views of the cathedral from different angles within the park, beautiful in all seasons.",
+        "location": "Various spots in the Park",
+        "image": "/gallery/cathedral-park (8).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "City Center Area",
+        "desc": "Located near Cathedral Park, this area features hotels and guesthouses within walking distance to the park and main attractions.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Stefan cel Mare Area",
+        "desc": "The main boulevard area with many hotels, restaurants, and shops. Close to the park and cultural venues.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Buiucani District",
+        "desc": "A quieter area with good accommodation options, a short walk or drive from the city center.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Botanica District",
+        "desc": "Located south of the center, with various hotels and easy access to the city center by public transport.",
+        "price": "Recommended"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenic Views of Cathedral Park",
+    "captions": [
+      "Cathedral view",
+      "Park entrance",
+      "Walking paths",
+      "Green alleys",
+      "Square view",
+      "Cathedral dome",
+      "Winter scene",
+      "Summer greenery",
+      "Park benches",
+      "Monument details",
+      "Historic buildings",
+      "Visitors",
+      "Morning light",
+      "Tree-lined walks",
+      "Greenery",
+      "Flower beds"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "A beautiful park in the heart of Chișinău. The Nativity Cathedral is stunning, and the park is perfect for a peaceful walk any time of day."
+      },
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "One of my favorite places in the city. Beautiful in every season, and the cathedral is absolutely magnificent. Great for photos and relaxation."
+      },
+      {
+        "name": "Andrei M.",
+        "rating": 5,
+        "date": "2026-05-01",
+        "text": "A must-visit when in Chișinău. The park is well-maintained, and the atmosphere is very peaceful. Love the historic surroundings."
+      },
+      {
+        "name": "Elena T.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Beautiful park with lovely alleys and greenery. The cathedral is breathtaking, and the location is so central. Perfect for a relaxing break."
+      },
+      {
+        "name": "Victor C.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "A central gathering place with so much history. The park and cathedral together create a beautiful and meaningful space in the city center."
+      },
+      {
+        "name": "Ana L.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Beautiful any time of year. The park is clean, the cathedral is impressive, and it's a great place to escape the city bustle for a while."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "The Great National Assembly Square, Chișinău, Moldova",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Cathedral Park Info",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Partner Resources",
+    "officialLinks": {
+      "culture": "Ministry of Culture",
+      "tourism": "Moldova Tourism",
+      "heritage": "Heritage Inspection",
+      "cityHall": "Chisinau City Hall",
+      "projects": "Chisinau Projects"
+    },
+    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Cathedral Park. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Cathedral Park",
+    "text": "Cathedral Park is a major public park in the centre of Chișinău, Moldova, located at the Great National Assembly Square. It is a perfect example of combining city history with nature, centered around the Nativity Cathedral."
+  }
+}
